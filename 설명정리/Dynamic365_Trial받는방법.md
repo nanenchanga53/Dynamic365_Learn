@@ -1,0 +1,1 @@
+[D365 1개월 체험](https://dynamics.microsoft.com/ko-kr/dynamics-365-free-trial/) 연결된 사이트에 들어가 회사이메일을 등록하면 1개월 무료로 체험할 수 있다(구글 등 유명한 개인이메일계정은 안되니 카카오 등을 이용해보자)
